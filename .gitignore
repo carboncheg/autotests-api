@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# MyPy / coverage / other tools
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
