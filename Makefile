@@ -1,6 +1,6 @@
 # Указание путей
 PROTO_SRC=user_service.proto
-GEN_DIR=autotests-api/.
+GEN_DIR=.
 
 # Команда генерации gRPC-кода из .proto
 generate:

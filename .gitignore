@@ -19,7 +19,7 @@ __pycache__/
 # VSCode
 .vscode/
 
-# MyPy / coverage / other tools
+# MyPy / coverage / other tools_
 .mypy_cache/
 .coverage
 htmlcov/
